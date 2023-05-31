@@ -4,14 +4,8 @@ Implementation of VisualDet3D (https://github.com/Owen-Liuyuxuan/visualDet3D) wi
 
 Data preparation:
 Make sure to respect the correct architecture:
-KITTI dataset:
-  training
-    calib
-    image_2
-    label_2
-  testing
-    calib
-    image_2
+KITTI dataset/{training, testing}/{calib, label_2, image_2}
+ 
 
 We use the pretrained model: GroundAware_pretrained.pth (to be downloaded separately from https://github.com/Owen-Liuyuxuan/visualDet3D/releases/tag/1.0)
 
