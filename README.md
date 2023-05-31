@@ -1,3 +1,5 @@
+DLAV project: 3D vehicle localization / group 31 / Maxime LELIEVRE, Erik MORTENSEN
+
 Implementation of VisualDet3D (https://github.com/Owen-Liuyuxuan/visualDet3D) with a custom visualization from https://github.com/zzzxxxttt/simple_kitti_visualization
 
 Data preparation:
