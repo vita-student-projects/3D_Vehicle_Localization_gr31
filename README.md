@@ -11,6 +11,6 @@ To use the pretrained model: GroundAware_pretrained.pth (to be downloaded separa
 
 Test visualization is possible by using the file  3dbox_to_img.py with the appropriate structure from https://github.com/zzzxxxttt/simple_kitti_visualization
 
-The whole pipeline has been run with scitas cluster from the file train_test_for_scitas.sh
+The whole pipeline has been run with scitas cluster (to have access to GPU) from the file train_test_for_scitas.sh
 
 
