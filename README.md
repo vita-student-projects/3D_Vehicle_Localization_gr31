@@ -7,6 +7,6 @@ Make sure to respect the correct architecture:
 KITTI dataset/{training, testing}/{calib, label_2, image_2}
  
 
-We use the pretrained model: GroundAware_pretrained.pth (to be downloaded separately from https://github.com/Owen-Liuyuxuan/visualDet3D/releases/tag/1.0)
+To use the pretrained model: GroundAware_pretrained.pth (to be downloaded separately from https://github.com/Owen-Liuyuxuan/visualDet3D/releases/tag/1.0)
 
 
