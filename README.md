@@ -9,6 +9,6 @@ KITTI dataset/{training, testing}/{calib, label_2, image_2}
 
 To use the pretrained model: GroundAware_pretrained.pth (to be downloaded separately from https://github.com/Owen-Liuyuxuan/visualDet3D/releases/tag/1.0)
 
-Test visualization is possible by using the file  3dbox_to_img.py from https://github.com/zzzxxxttt/simple_kitti_visualization
+Test visualization is possible by using the file  3dbox_to_img.py with the appropriate structure from https://github.com/zzzxxxttt/simple_kitti_visualization
 
 
