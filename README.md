@@ -11,6 +11,6 @@ KITTI dataset:
     calib
     image_2
 
-We use the pretrained model: GroundAware_pretrained.pth (to be downloaded separately)
+We use the pretrained model: GroundAware_pretrained.pth (to be downloaded separately from https://github.com/Owen-Liuyuxuan/visualDet3D/releases/tag/1.0)
 
 
